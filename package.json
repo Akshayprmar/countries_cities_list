@@ -1,6 +1,6 @@
 {
   "name": "countries_cities_list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Countries and there relevent cities. There are few countries which have regions included as well",
   "main": "index.js",
   "scripts": {
